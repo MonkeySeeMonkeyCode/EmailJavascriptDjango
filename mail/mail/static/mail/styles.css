@@ -1,0 +1,36 @@
+textarea {
+    min-height: 400px;
+}
+
+#email-white {
+    border: 1px solid black;
+    margin: -1px;
+    width:100%;
+    background-color: white;
+}
+
+#email-gray {
+    border: 1px solid black;
+    margin: -1px;
+    width:100%;
+    background-color: gray;
+}
+
+#sender {
+    font-weight: bold;
+    display: inline-block;
+    text-align: left;
+    width: 20%;
+}
+
+#subject {
+    display: inline-block;
+    text-align: left;
+    width: 30%;
+}
+
+#timestamp {
+    display: inline-block;
+    text-align: right;
+    width: 50%;
+}
